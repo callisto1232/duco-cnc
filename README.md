@@ -2,6 +2,9 @@
 
 When 3D printers first came out, they were much more complicated then they're now where everyone can just get one, plug and use. Our goal is to change this for CNC machines too.
 
+Software under `/main`
+Libraries under `/main/src`
+
 ### Hardware
 - [x] 1x 12000 RPM 48V 200W Spindle Motor
 
